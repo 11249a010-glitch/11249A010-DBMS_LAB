@@ -1,1 +1,1 @@
-# 11249A010-DBMS_LAB
+#database management system
